@@ -215,3 +215,5 @@ cd ..
 mv footer.jpeg client/assets/images/
 mv client/assets/images/footer.jpeg images/
 mv images/footer.jpeg client/assets/images/
+find
+find
