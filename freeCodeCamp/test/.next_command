@@ -137,3 +137,5 @@ mv menlo.otf fonts/
 find
 mkdir cliend
 mkdir client
+rm cliend
+mkdir client/src
