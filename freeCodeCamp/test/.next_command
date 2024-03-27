@@ -95,3 +95,4 @@ cd .
 touch background.jpg
 touch header.png
 touch footer.jpeg
+ls --color=auto
