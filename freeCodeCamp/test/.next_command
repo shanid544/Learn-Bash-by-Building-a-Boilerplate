@@ -139,3 +139,4 @@ mkdir cliend
 mkdir client
 rm cliend
 mkdir client/src
+mv index.html client/src/
