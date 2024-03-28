@@ -174,3 +174,5 @@ find -name index.html
 ls --color=auto
 cd website/
 find -name index.html
+find -name style.css
+find -name styles.css
