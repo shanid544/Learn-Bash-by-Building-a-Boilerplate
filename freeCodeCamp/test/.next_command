@@ -246,3 +246,5 @@ ls --color=auto
 echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
+__vsc_prompt_cmd_original
+echo I made this boilerplate >> README.md
