@@ -249,3 +249,4 @@ echo one more thing...
 __vsc_prompt_cmd_original
 echo I made this boilerplate >> README.md
 more README.md
+echo from the command line >> README.md
