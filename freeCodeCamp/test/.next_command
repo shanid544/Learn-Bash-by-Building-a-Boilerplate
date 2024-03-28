@@ -258,3 +258,4 @@ more README.md
 CD .
 cd .
 cd ..
+ls --color=auto
